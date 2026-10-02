@@ -44,4 +44,6 @@ A Convolutional Neural Network (CNN) was used for image classification.
 - Matplotlib
 
 ## Notebook
-The complete code, analysis steps, and outputs are available in the Jupyter Notebook included in this repository.
+The complete code, analysis steps, and outputs are available here:
+
+[Open the Jupyter Notebook](BitirmeProjesi.ipynb)
